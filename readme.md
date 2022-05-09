@@ -12,3 +12,8 @@
 npm i
 ```
 then Make file named ".env" in root folder then add `Token YOUR_TOKEN HERE`
+
+then you can use
+```
+npm start
+```
